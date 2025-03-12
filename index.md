@@ -86,7 +86,7 @@ Este manual tem como objetivo orientar os usuários da **Clínica Faculdade Sobe
    - **box01a**: Profissional ou aluno no Box 01 da Clínica A.  
    - **box02b**: Profissional ou aluno no Box 02 da Clínica B.  
    - **box03a**: Profissional ou aluno no Box 03 da Clínica A.  
-   -  **<span style="color: red;">Senha padrão: `123456`  </span>**
+   -  <span style="color: red;">**Senha padrão: `123456`**  </span>
 
  
    (E assim por diante, com a numeração do Box e a letra correspondente à clínica.) 
