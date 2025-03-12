@@ -31,7 +31,7 @@ Este manual tem como objetivo orientar os usuários da **Clínica Faculdade Sobe
    - 🔴 **Prioritário**
   
 <br>
-5. Escolha o <span style="color: red;">**atendimento correto:**</span>  
+5. Escolha o <span style="color: red;">**atendimento correto:** </span>
 
 | Tipo de Atendimento | Código de Senha |
 |--------------------|----------------|
