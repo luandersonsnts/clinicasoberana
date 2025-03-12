@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manual do Painel da Clínica
+title: Manual de uso - Novo SGA (sistema gerenciador de atendimento)
 ---
 
 # 📖 Manual de Uso - Novo SGA (sistema gerenciador de atendimento)  
