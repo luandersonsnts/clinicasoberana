@@ -50,7 +50,7 @@ Este manual tem como objetivo orientar os usuários da **Clínica Faculdade Sobe
 
 ---
 
-# ** Gerenciamento de Senhas**  
+# **🔒 Gerenciamento de Senhas**  
 
 ### **🔍 Monitor**
 
