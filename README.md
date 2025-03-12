@@ -1,2 +1,8 @@
-# clinicasoberana
-Este manual tem como objetivo orientar os usuários da Clínica Faculdade Soberana sobre o uso do Painel de Triagem e Atendimento (Box), incluindo o cadastro de pacientes, emissão de senhas e andamento dos atendimentos.
+# Manual do Novo SGA 🏥
+
+Este repositório contém o manual do **Sistema Gerenciador de Atendimento (SGA)** utilizado na **Clínica Faculdade Soberana**.
+
+📖 **Acesse o manual completo:**  
+➡️ [Clique aqui para ler o manual](Painelclinica.md)
+
+📌 Dúvidas? Entre em contato com o setor **NTI** da faculdade.
