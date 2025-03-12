@@ -28,10 +28,10 @@ Este manual tem como objetivo orientar os usuários da **Clínica Faculdade Sobe
 3. Digite o **nome do paciente** para validar a senha.  
 4. Selecione o **tipo de prioridade**:  
    - 🔵 **Normal**  
-   - 🔴 **Prioritário**
-  
-<br>
-5. Escolha o <span style="color: red;">**atendimento correto:** </span>
+   - 🔴 **Prioritário**<br>
+
+
+5. Escolha o <span style="color: red;"> **atendimento correto:** </span>
 
 | Tipo de Atendimento | Código de Senha |
 |--------------------|----------------|
