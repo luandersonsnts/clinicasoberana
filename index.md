@@ -5,7 +5,7 @@ title: Manual de uso - Novo SGA (sistema gerenciador de atendimento)
 
 # **📖 Manual de Uso - Novo SGA (sistema gerenciador de atendimento)**  
 
-# 🏥 Introdução  
+# **🏥 Introdução**  
 Este manual tem como objetivo orientar os usuários da **Clínica Faculdade Soberana** sobre o uso do **Painel de Triagem** e **Atendimento (Box)**, incluindo o cadastro de pacientes, emissão de senhas e andamento dos atendimentos.  
 
 ### 👥 Perfis de Usuário  
@@ -14,15 +14,15 @@ Este manual tem como objetivo orientar os usuários da **Clínica Faculdade Sobe
 
 ---
 
-### 🔑 Acesso ao Sistema  
+### **🔑 Acesso ao Sistema**  
 1. Acesse o sistema pelo link: **[http://clinica.faculdadesoberana.edu.br/]**
 2. Faça login com seu usuário e senha fornecidos pelo setor **NTI**.  
 
 
 ---
 
-## 📝 Painel de Triagem  
-### 📌 Cadastro do Paciente  
+## **📝 Painel de Triagem**  
+### **📌 Cadastro do Paciente**  
 1. Na tela inicial, clique em **"Soberana Faculdade"** e acesse **"Triagem"**.  
 2. Adicione o **documento do paciente**.  
 3. Digite o **nome do paciente** para validar a senha.  
